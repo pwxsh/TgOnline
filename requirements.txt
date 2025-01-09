@@ -1,4 +1,7 @@
-kurigram
-tgcrypto
+Kurigram=>2.1.35
+pyaes
+pyasn1
+PySocks
 python-dotenv
-
+rsa
+TgCrypto
